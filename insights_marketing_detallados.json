@@ -1,0 +1,244 @@
+{
+  "estadisticas_generales": {
+    "total_testimonios": 255,
+    "empresas_participantes": 10,
+    "departamentos_cubiertos": 50,
+    "testimonios_con_impacto_cuantitativo": 28,
+    "herramientas_mencionadas_total": 2
+  },
+  "beneficios_mas_mencionados": {
+    "Oportunidades": 46,
+    "Desafíos": 46,
+    "Expectativas": 34,
+    "Creatividad e innovación": 31,
+    "Otros beneficios": 21
+  },
+  "herramientas_mas_populares": {
+    "Chatgpt": 2,
+    "Excel": 1
+  },
+  "impactos_cuantitativos_destacados": [
+    {
+      "empresa": "ENCONTRACK",
+      "impacto": "8 horas; 15 horas",
+      "contexto": "1. Diseño de estrategias de Gestión del Cambio. Las enfoco para contribuir con los proyectos o situa..."
+    },
+    {
+      "empresa": "ENCONTRACK",
+      "impacto": "30 minutos; 3 minutos",
+      "contexto": "Activaciones diarias de trabaja un archivo 30 minutos, extraer datos de PDF de facturas diario 3 min..."
+    },
+    {
+      "empresa": "ENCONTRACK",
+      "impacto": "5 minutos; 2 días",
+      "contexto": "1: Redactar de mejor manera un correo para el cliente // Tiempo 5 Minutos // Frecuencia Diario\n2: Pe..."
+    },
+    {
+      "empresa": "ENCONTRACK",
+      "impacto": "15 días",
+      "contexto": "1.- Análisis de datos para explotar información y detectar anomalías, patrones, secuencias etc, 2 o ..."
+    },
+    {
+      "empresa": "ENCONTRACK",
+      "impacto": "15 días; 10 minutos; 20 minutos",
+      "contexto": "1. Seguimiento de fallas de unidad: Al brindar los comentarios de ciertre al cliente, poder brindar ..."
+    },
+    {
+      "empresa": "ENCONTRACK",
+      "impacto": "3 horas",
+      "contexto": "1.-Llenado de reporte de revisiones diarias; tenemos que acceder a una base de datos que es llenada ..."
+    },
+    {
+      "empresa": "ENCONTRACK",
+      "impacto": "2 semanas; 3 días; 2 semanas; 1 día",
+      "contexto": "Disminución de pasivos en vacaciones. Optimizar el proceso y crear contenido para toda la compañía p..."
+    },
+    {
+      "empresa": "ENCONTRACK",
+      "impacto": "10 minutos; 30 minutos; 15 minutos",
+      "contexto": "1. Redacción de respuestas (plantillas correo/whatsapp) a clientes según el estatus de unidades GPS\n..."
+    },
+    {
+      "empresa": "ENCONTRACK",
+      "impacto": "5 minutos",
+      "contexto": "las llamadas la revisión de fotos e instalación de equipo \nde 4 a 5 minutos \nes diario..."
+    },
+    {
+      "empresa": "ENCONTRACK",
+      "impacto": "6 horas; 8 horas; 3 horas",
+      "contexto": "1. Diseño de materiales de capacitación personalizados\nActualmente, diseño presentaciones, manuales ..."
+    }
+  ],
+  "frases_clave_marketing": [
+    {
+      "frase": "Me permite enfocarme más en la toma de decisiones y elaboración de proyectos y mucho menos en la ejecución de tareas repetitivas",
+      "empresa": "SPORTIUM",
+      "categoria": "Toma de decisiones"
+    },
+    {
+      "frase": "He logrado algunos reportes interesantes, actividad semanal",
+      "empresa": "ENCONTRACK",
+      "categoria": "Oportunidades"
+    }
+  ],
+  "casos_uso_por_industria": {
+    "Farmacéutica y Salud": {
+      "total_casos": 20,
+      "areas_funcionales": {
+        "Otros": 7,
+        "Recursos Humanos": 6,
+        "Diseño y Creatividad": 4,
+        "Marketing y Ventas": 3
+      },
+      "beneficios_principales": {
+        "Ahorro de tiempo": 6,
+        "Mejora de calidad": 4,
+        "Otros beneficios": 4,
+        "Análisis de datos": 3,
+        "Eficiencia operativa": 1,
+        "Automatización": 1,
+        "Creatividad e innovación": 1
+      },
+      "casos_destacados": [
+        {
+          "descripcion_caso": "Agilidad en creación de correos y/o formatos",
+          "impacto_cuantitativo": ""
+        },
+        {
+          "descripcion_caso": "Comparación de candidatos, formatos de registro, formatos de procesos de RH",
+          "impacto_cuantitativo": ""
+        },
+        {
+          "descripcion_caso": "AHORRAR TIEMPO EN PROCESOS DE RESPUESTA ",
+          "impacto_cuantitativo": ""
+        }
+      ]
+    },
+    "Fitness y Bienestar": {
+      "total_casos": 20,
+      "areas_funcionales": {
+        "Marketing y Ventas": 10,
+        "Recursos Humanos": 4,
+        "Tecnología": 4,
+        "Otros": 2
+      },
+      "beneficios_principales": {
+        "Otros beneficios": 8,
+        "Ahorro de tiempo": 5,
+        "Análisis de datos": 4,
+        "Toma de decisiones": 1,
+        "Eficiencia operativa": 1,
+        "Mejora de calidad": 1
+      },
+      "casos_destacados": [
+        {
+          "descripcion_caso": "Mejorar la comunicación, mensajes claros, menos inversión de tiempo en actividades que impliquen la generación de ideas.",
+          "impacto_cuantitativo": ""
+        },
+        {
+          "descripcion_caso": "Información sobre temas relevantes.",
+          "impacto_cuantitativo": ""
+        },
+        {
+          "descripcion_caso": "Me permite enfocarme más en la toma de decisiones y elaboración de proyectos y mucho menos en la ejecución de tareas repetitivas",
+          "impacto_cuantitativo": ""
+        }
+      ]
+    },
+    "Servicios Profesionales": {
+      "total_casos": 6,
+      "areas_funcionales": {
+        "Otros": 4,
+        "Marketing y Ventas": 2
+      },
+      "beneficios_principales": {
+        "Mejora de calidad": 3,
+        "Creatividad e innovación": 1,
+        "Eficiencia operativa": 1,
+        "Otros beneficios": 1
+      },
+      "casos_destacados": [
+        {
+          "descripcion_caso": "Mejoramiento en detalles, asi como mejores composiciones en los diseños ",
+          "impacto_cuantitativo": ""
+        },
+        {
+          "descripcion_caso": "mayormente en generación de imágenes, para usp/ apoyo visual a mis diseños, así como también a conceptualizar mejor la idea(s) que llego a tener para una tarea o proyecto",
+          "impacto_cuantitativo": ""
+        },
+        {
+          "descripcion_caso": "Entregar tareas más completas, con mejor información, mejor explicada. Abrir mi mente a más posibilidades.",
+          "impacto_cuantitativo": ""
+        }
+      ]
+    },
+    "Tecnología y Rastreo": {
+      "total_casos": 87,
+      "areas_funcionales": {
+        "Otros": 63,
+        "Tecnología": 15,
+        "Finanzas y Administración": 9
+      },
+      "beneficios_principales": {
+        "Oportunidades": 46,
+        "Creatividad e innovación": 23,
+        "Automatización": 13,
+        "Análisis de datos": 5
+      },
+      "casos_destacados": [
+        {
+          "descripcion_caso": "Automatización de reportes;Generación de contenidos;Análisis de datos o documentos;Clasificación de correos o tickets;Visualización de datos;Apoyo en diseño o presentaciones;",
+          "impacto_cuantitativo": ""
+        },
+        {
+          "descripcion_caso": "1. Diseño de estrategias de Gestión del Cambio. Las enfoco para contribuir con los proyectos o situaciones que surgen en la organización, las realizo una o dos veces por semana e invierto al menos 8 horas en la construcción (diagnóstico, medición de impacto, audiencias, selección de actividades, etc.\n2. Elaboración de cursos o capacitaciones para la organización. Actualmente se invierte tiempo de mucha gente en la empresa (no solo mía o de mi área) para capacitar a los nuevos ingresos, esto se hace cada semana.\n3. Elaboración de materiales diversos para campañas de comunicación, capacitaciones, intervenciones, encuestas, etc. Esto es prácticamente a diario. Más de 15 horas a la semana.",
+          "impacto_cuantitativo": "8 horas; 15 horas"
+        },
+        {
+          "descripcion_caso": "Análisis de datos o documentos;",
+          "impacto_cuantitativo": ""
+        }
+      ]
+    }
+  },
+  "testimonios_por_nivel_experiencia": {
+    "Novatos (0-1 años)": 184,
+    "Intermedios (2-5 años)": 17,
+    "Experimentados (5+ años)": 20,
+    "No especificado": 34
+  },
+  "palabras_mas_frecuentes": {
+    "datos": 88,
+    "análisis": 58,
+    "tiempo": 56,
+    "diseño": 48,
+    "presentaciones": 48,
+    "información": 44,
+    "apoyo": 40,
+    "reportes": 38,
+    "herramientas": 35,
+    "documentos": 35,
+    "generación": 34,
+    "frecuencia": 33,
+    "semanal": 30,
+    "trabajo": 26,
+    "generar": 26,
+    "diario": 25,
+    "visualización": 24,
+    "contenidos": 24,
+    "creación": 20,
+    "procesos": 20
+  },
+  "recomendaciones_campana": [
+    "Enfocarse en testimonios con impacto cuantitativo (ahorro de tiempo específico)",
+    "Destacar la versatilidad de aplicaciones (múltiples departamentos y industrias)",
+    "Crear casos de estudio detallados por industria específica",
+    "Utilizar frases directas de participantes como quotes principales",
+    "Desarrollar contenido específico para cada nivel de experiencia",
+    "Crear comparativos antes/después basados en los testimonios PRE/POST",
+    "Destacar la continuidad y planes futuros de los participantes",
+    "Utilizar palabras clave más frecuentes en el copy de marketing",
+    "Crear testimonios en video con los participantes más entusiastas",
+    "Desarrollar calculadora de ROI basada en los impactos cuantitativos reportados"
+  ]
+}
